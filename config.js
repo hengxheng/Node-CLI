@@ -1,0 +1,1 @@
+module.exports = { url: "mongodb://hz:890zxc@ds125068.mlab.com:25068/node_cli" };
